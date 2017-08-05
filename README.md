@@ -5,3 +5,5 @@ My intention is to compile C-Code to IR Code and IR Code to Executables just wit
 I want to share my experience and precompiled tools with you to reduce the pain with LLVM on Windows.
 
 Visual Studio has an experimental Clang/LLVM Support but that's a different story.
+
+Please visit the Wiki-Page for more Informations [Git Wiki](https://github.com/TimBo93/LLVM-Windows/wiki)
